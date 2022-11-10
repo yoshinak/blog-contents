@@ -1,0 +1,12 @@
+= ブログ コンテンツ
+:toc: auto
+:doctype: book
+:sectnums:
+:source-highlighter: highlightjs
+:experimental:
+:icons: font
+:data-uri:
+
+このプロジェクトは、以下のブログに掲載するコンテンツの一部を登録したものです。
+
+- https://yoshinak.com/[yoshinak's note]
